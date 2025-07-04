@@ -1,0 +1,12 @@
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (1, '1#ss', 1, 25, 0, NULL, 0, '123', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (2, '1#ts', 2, 25, 0, NULL, 0, '111', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (3, '1#ca', 3, -1, 0, NULL, 0, '546', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (4, '1#wd', 4, 0, 1, 1751284287338, 0, '765', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (5, '1#ds', 5, 0, 1, 1751388449962, 0, '6554', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (6, '1#ws', 6, 0, 1, 1751284177941, 0, '678', 1, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (7, '2#ss', 1, 25, 0, NULL, 0, '656', 2, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (8, '2#ts', 2, 20, 0, NULL, 0, '446', 2, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (9, '2#ca', 3, -1, 0, NULL, 0, '767', 2, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (10, '2#wd', 4, 0, 1, NULL, 0, '876', 2, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (11, '2#ds', 5, 0, 1, NULL, 0, '735', 2, 1, 0);
+INSERT INTO `device` (`id`, `name`, `type`, `cvalue`, `isoperator`, `turntime`, `isforcedoff`, `physicalid`, `label`, `id$place`, `isdeleted`) VALUES (12, '2#ws', 6, 0, 1, NULL, 0, '789', 2, 1, 0);

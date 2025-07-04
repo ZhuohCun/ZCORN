@@ -1,0 +1,1 @@
+INSERT INTO `place` (`id`, `name`, `address`, `description`, `isdeleted`) VALUES (1, 'Nangsong Donggu base', 'Lianghe', 'Nangsong is the northern gate of Dehong, bordering with Tengchong in Baoshan.', 0);
