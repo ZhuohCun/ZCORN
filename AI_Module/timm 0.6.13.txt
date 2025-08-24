@@ -1,0 +1,1 @@
+Be sure to install timm 0.6.13. Installing other versions of timm may cause errors.
