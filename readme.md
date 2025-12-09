@@ -4,5 +4,5 @@
 
 * The example of the command center given in this software, 「Mamao Guanzhang Beituowa Command Center (马茂关璋卑妥瓦指挥中心)」, is under construction.
 
-* This opensource software is for you all to learn from and redevelop, but any illegal use of this copy is strictly prohibited.
+* This opensource software is for you all to learn from and redevelop, but any illegal use of this copy is strictly prohibited. The AI module of this project is based on an opensource project, T2T-ViT.
 * 「A Group Led By Zhuohong Cun」 © All Rights Reserved
